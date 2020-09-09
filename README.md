@@ -1,3 +1,4 @@
+![Profile views](https://gpvc.arturio.dev/ratzmx1)  
 ### Hi there 👋, my names is Enzo Pigatti
 #### I'm a computer science engineering student
 
@@ -11,4 +12,3 @@ Skills: React/ Redux / Express / Vue / Oracle / MongoDB / Firebase / Python
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ratzmx1&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/ratzmx1)  

@@ -2,9 +2,9 @@
 ### Hi there 👋, my names is Enzo Pigatti
 #### I'm a computer science engineering student
 
-Skills: React/ Redux / Express / Vue / Oracle / MongoDB / Firebase / Python
+Skills: React/ Redux / React Native / Express / Vue / Oracle / MongoDB / Firebase / Python
 
-- 🌱 I’m currently learning React Native 
+- 🌱 I’m currently learning NextJs
 - ⚡ Fun fact: I'm a music lover and drummer 
 
 

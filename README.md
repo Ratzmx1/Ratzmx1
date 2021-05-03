@@ -32,6 +32,3 @@ Other        3 mins          █░░░░░░░░░░░░░░░░
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ratzmx1&show_icons=true&locale=en" alt="ratzmx1" /></p>
 
 
-
-
-<img src="https://github.com/Ratzmx1/Ratzmx1/blob/master/images/stat.svg" alt="Alternative Text"/>

@@ -30,4 +30,4 @@ Other        3 mins          █░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
-<img src="https://github.com/Ratzmx1/Ratzmx1/blob/main/images/stat.svg" alt="Alternative Text"/>
+<img src="https://github.com/Ratzmx1/Ratzmx1/blob/master/images/stat.svg" alt="Alternative Text"/>

@@ -20,6 +20,13 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ratzmx1&show_icons=true&locale=en" alt="ratzmx1" /></p>
 
 <!--START_SECTION:waka-->
+```text
+JavaScript   45 mins         ████████████▓░░░░░░░░░░░░   51.31 % 
+CSS          21 mins         ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
+Properties   14 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
+PHP          3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Other        3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+```
 <!--END_SECTION:waka-->
 
 

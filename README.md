@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-C      3 mins          ██████████████████████▒░░   89.91 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 

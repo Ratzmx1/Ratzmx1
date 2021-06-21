@@ -4,9 +4,9 @@
 
 ![Profile views](https://gpvc.arturio.dev/ratzmx1)  
 
-- 🌱 I’m currently learning **JavaFX**
+- 🌱 I’m currently learning **Livewire**
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **MERN Stack or Laravel**
 
 - 📫 How to reach me **enzoxz.023@gmail.com**
 

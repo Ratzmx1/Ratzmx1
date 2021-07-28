@@ -4,7 +4,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/ratzmx1)  
 
-- 🌱 I’m currently learning **Livewire**
+- 🌱 I’m currently learning **Hexagonal Architecture**
 
 - 💬 Ask me about **MERN Stack or Laravel**
 

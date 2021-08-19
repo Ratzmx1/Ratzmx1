@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Enzo Pigatti</h1>
-<h3 align="center">A passionate developer from Talca, Chile. Drummer of "Recuerda el fuego".</h3>
+<h3 align="center">A passionate developer from Talca, Chile. Drummer of "Recuerda el fuego 🔥🔥🔥".</h3>
 
 ![Profile views](https://gpvc.arturio.dev/ratzmx1)  
 
-- 🌱 I’m currently learning **Hexagonal Architecture**
+- 🌱 I’m currently learning **Hexagonal Architecture & DDD**
 
 - 💬 Ask me about **MERN Stack or Laravel**
 

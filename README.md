@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Enzo Pigatti</h1>
-<h3 align="center">A passionate developer from Talca, Chile. Drummer of "No Pudieron Acabar Con Todxs".</h3>
+<h3 align="center">A passionate developer from Talca, Chile. Drummer of "Recuerda el fuego".</h3>
 
 ![Profile views](https://gpvc.arturio.dev/ratzmx1)  
 

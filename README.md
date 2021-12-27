@@ -15,8 +15,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Dart         2 hrs 39 mins   ███████████████████▒░░░░░   77.67 % 
-TypeScript   45 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.33 % 
+Dart         2 hrs 39 mins   ██████████████████████▓░░   90.92 % 
+TypeScript   15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
 ```
 <!--END_SECTION:waka-->
 

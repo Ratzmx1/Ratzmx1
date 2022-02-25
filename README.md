@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+PHP          2 mins          ██████████████████▓░░░░░░   74.98 % 
 ```
 <!--END_SECTION:waka-->
 

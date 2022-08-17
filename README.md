@@ -16,7 +16,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python        1 hr 58 mins    ██████████████▓░░░░░░░░░░   58.52 %
+MATLAB        1 hr 19 mins    ██████████░░░░░░░░░░░░░░░   39.43 %
+JSON          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+Other         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
 ```
 
 <!--END_SECTION:waka-->
